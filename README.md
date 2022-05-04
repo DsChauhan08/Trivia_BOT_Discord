@@ -2,19 +2,17 @@
 
 [![top.gg Badge](https://top.gg/api/widget/servers/337654994461261825.svg?noavatar=true)](https://top.gg/bot/337654994461261825)
 
-**Please note that you are currently viewing a pre-release of an upcoming TriviaBot build. For the latest stable releases, see the releases page: https://github.com/LakeYS/Discord-Trivia-Bot/releases**
-
 # TriviaBot
 TriviaBot brings multiplayer trivia games to your Discord server! With over 3,000 questions and 24 categories, TriviaBot offers endless multiplayer trivia fun.
 
-[__Invite TriviaBot to a server__](https://lakeys.net/triviabot/invite) | [Support it on Patreon](https://www.patreon.com/LakeYS) | [View updates & progress on Trello](https://trello.com/b/8QQm4ZPe/triviabot) | [Join the Discord](https://discord.gg/s3vCQba)
+Support it on Patreon](https://www.patreon.com/DsChauhan08) | [Join the Discord](https://discord.gg/AMEbC75Nuf)
 ------------ | ------------- | ------------- | -------------
 
 View TriviaBot on:
 [top.gg](https://top.gg/bot/337654994461261825) | [discord.bots.gg](https://discord.bots.gg/bots/337654994461261825)
 
 # Development and Support
-For support, questions, and comments, you can join the Discord server or contact me directly at contact@LakeYS.net. You can also [submit an issue](https://github.com/LakeYS/Discord-Trivia-Bot/issues/new) for bugs and support.
+For support, questions, and comments, you can join the Discord server or contact me directly at singhdschauhan10@gmail.com. You can also [submit an issue](https://github.com/DsChauhan08/Discord-Trivia-Bot/issues/new) for bugs and support.
 
 # Features
 - Access to a complete database of over 3,000 categorized, multiple-choice trivia questions. (Thanks to [OpenTDB](https://opentdb.com))
@@ -27,7 +25,7 @@ For support, questions, and comments, you can join the Discord server or contact
 - Multiple modes of play to choose from.
 
 # How to Install
-If you'd like to install and host TriviaBot yourself, you can find out how to do so [here](http://lakeys.net/triviabot/install.html).
+If you'd like to install and host TriviaBot yourself, you can find out how to do so *Sorry it Will Come soon.. [here](Will be coming soon).
 
 Support for custom questions is available for self-hosted bots.
 
