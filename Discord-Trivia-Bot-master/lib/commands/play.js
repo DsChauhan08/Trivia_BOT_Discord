@@ -6,7 +6,7 @@ module.exports = (config, Trivia, getConfig) => {
       return;
     }
 
-    if(categoryInput !== "PLAY" && categoryInput !== "PLAY HANGMAN") {
+    if(categoryInput !== "Start" && categoryInput !== "PLAY HANGMAN") {
       Trivia.database.getCategoryFromStr(categoryInput)
       .then((category) => {
         if(typeof category === "undefined") {
